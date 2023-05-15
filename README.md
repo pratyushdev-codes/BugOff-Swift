@@ -1,33 +1,7 @@
-# Installation Steps
-
-## Using npm
-
-Run commands
-
-1) ```npm install```
-
-
-2) ```npm run dev```
-
-
-## Or using yarn
-
-Run commands 
-
-1) ```npm install --global yarn```
-
-2) ```yarn install```
-
-3) ```yarn run dev```
-
-
-First do rigorous testing and find all the bugs in the website and fix them all
-Then go through the feature doc and implement these features given in the list
-
-Also you are required implement some innovative ideas that will make your project extraordinary. A mentoring round for the same will commence from 11:30 am.
-
-Your website will be judged on the basis of usability, UI/UX, bug fixes, features implementation, & innovation.
-
-FEATURE LINK : bit.ly/42ZwGOd
-
+Swift Buy - E commerce story. Fetches data through Fake API and sorts it accroding to its categories.
+Built for a Hackathon - BUG OFF
+![image](https://github.com/pratyushdev-codes/BugOff-Swift/assets/109750976/bb8a3da5-5591-45c6-9db7-0b62ec64851a)
+![image](https://github.com/pratyushdev-codes/BugOff-Swift/assets/109750976/4bd7887f-4684-48bb-a1c4-b6c83aa0115c)
+![image](https://github.com/pratyushdev-codes/BugOff-Swift/assets/109750976/cf7a1968-91b7-4dfe-8d06-3f6355efc799)
+![image](https://github.com/pratyushdev-codes/BugOff-Swift/assets/109750976/95ecf22f-f7c8-4a92-8c5c-b80640568a15)
 
